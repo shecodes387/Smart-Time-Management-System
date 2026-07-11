@@ -37,5 +37,7 @@ Smart-Time-Management-System/
 ## Author
 
 **Nida Eman**
+
 BS Computer Science
+
 University of Mianwali
