@@ -26,5 +26,7 @@ A C++ console-based Time Management System that provides multiple time-related u
 ## Author
 
 **Nida Eman**
+
 BS Computer Science
+
 University of Mianwali
