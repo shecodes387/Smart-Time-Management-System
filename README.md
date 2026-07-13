@@ -17,17 +17,6 @@ A C++ console-based Time Management System that provides multiple time-related u
 - C++
 - Windows Console API
 
-## Project Structure
-
-
-Smart-Time-Management-System/
-│
-├── README.md
-├── .gitignore
-└── src/
-    └── main.cpp
-
-
 ## How to Run
 
 1. Open `src/main.cpp` in your C++ IDE.
@@ -37,7 +26,5 @@ Smart-Time-Management-System/
 ## Author
 
 **Nida Eman**
-
 BS Computer Science
-
 University of Mianwali
