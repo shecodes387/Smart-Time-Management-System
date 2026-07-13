@@ -85,11 +85,11 @@ void showTimeAndDate() {
         
         if (tzChoice == 'P' || tzChoice == 'p') {
             hour -= 8;
-            if (hour < 0) hour += 24;  // Adjust for negative hours
+            if (hour < 0) hour += 24;  
             cout << "Timezone: Pacific Standard Time (PST)" << endl;
         } else if (tzChoice == 'E' || tzChoice == 'e') {
             hour -= 5;
-            if (hour < 0) hour += 24;  // Adjust for negative hours
+            if (hour < 0) hour += 24;  
             cout << "Timezone: Eastern Standard Time (EST)" << endl;
         } else {
             cout << "Invalid timezone selection.\n";
