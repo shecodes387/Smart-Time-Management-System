@@ -1,4 +1,4 @@
-#⏰ Smart Time Management System
+# ⏰ Smart Time Management System
 
 A C++ console-based Time Management System that provides multiple time-related utilities through a simple menu-driven interface.
 
